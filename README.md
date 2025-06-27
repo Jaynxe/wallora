@@ -114,19 +114,24 @@ wallora/
 
 ## 📱 界面预览
 首页<br><br>
-![image](https://github.com/user-attachments/assets/67f930f0-38f9-4d1e-b2b8-7c6744eb0599)
+![image](https://github.com/user-attachments/assets/0e7d468e-a546-40c9-9352-722afd5875b6)
+
 
 分类页面<br><br>
-![image](https://github.com/user-attachments/assets/e3ebe2bc-06b4-4cac-9867-49826ccb0295)
+![image](https://github.com/user-attachments/assets/406e97cf-5d57-4d4b-847e-927732bb9b40)
+
 
 壁纸列表<br><br>
-![image](https://github.com/user-attachments/assets/a748f0e1-5a50-475d-ab22-bf1883de0fce)
+![image](https://github.com/user-attachments/assets/26f2e572-7db4-496b-983f-63d8ed582d5f)
+
 
 壁纸预览<br><br>
-![image](https://github.com/user-attachments/assets/57aca775-07e1-405d-bfbe-abc1de7f236b)
+![image](https://github.com/user-attachments/assets/590eff39-b001-4e29-8692-3b553f74f18b)
+
 
 我的<br><br>
-![image](https://github.com/user-attachments/assets/45bca5f0-f672-43fd-ae27-2024d99be01d)
+![image](https://github.com/user-attachments/assets/44fdd086-0d52-4cde-919b-89a897f93487)
+
 
 ## 🔧 开发说明
 
